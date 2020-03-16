@@ -1,3 +1,4 @@
+#leap year using a function
 def func(y):
 	if y%4==0:
 		print(y," is a leap year")
