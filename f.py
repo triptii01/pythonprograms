@@ -1,3 +1,4 @@
+#input is divisible by 5 or 7 in a range
 n = range(14, 27)
 
 for i in n:
