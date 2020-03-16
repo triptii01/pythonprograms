@@ -22,3 +22,4 @@ print(queue)
 #removing first element from the queue
 queue.pop(0)
 print(queue)
+
