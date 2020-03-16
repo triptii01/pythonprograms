@@ -1,3 +1,4 @@
+#count number of odd and even numbers from string
 n = (4,3,6,5,7,8,2,9)
 
 count = n. count(n/2==0)
