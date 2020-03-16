@@ -1,3 +1,4 @@
+#finding the desired element in the array
 from array import*
 the_array = array('i',[3,6,7])
 
