@@ -1,3 +1,4 @@
+#check whether the input is divisible by 5 or 11 or not
 a = int(input("enter the value of a : "))
 
 if a%5==0:
