@@ -1,3 +1,4 @@
+#entering the details by using class function
 n = str(input("enter the name: "))
 a = int(input("enter the roll number: "))
 
